@@ -18,12 +18,12 @@ select * from role;
 select * from employee;
 
 insert into employee (first_name, last_name, role_id)
-values ("Kassi", "Stumb", 2);
+values ("Kaitlyn", "Rubbo", 2);
 
 insert into employee (first_name, last_name, role_id)
-values ("Aaron", "Stumb", 6);
+values ("Caige", "Kelly", 6);
 
 insert into employee (first_name, last_name, role_id, manager_id)
-values ("Austin", "Stumb", 1, 1);
+values ("Danielle", "Larson", 1, 1);
 
 select * from employee;
