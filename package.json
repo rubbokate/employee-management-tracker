@@ -1,0 +1,9 @@
+{
+    "name": "employee-tracker",
+    "version": "1.0.0",
+    "description": "A Node CLI to manage your company's employee information",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}
