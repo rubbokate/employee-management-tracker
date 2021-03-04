@@ -6,7 +6,7 @@ const connection = mysql.createConnection({
   host: "localhost",
   port: 3306,
   user: "root",
-  password: "Allme1992!",
+  password: "12341234",
   database: "employeeTracker_DB"
 });
 
@@ -16,4 +16,4 @@ connection.connect();
 // This allows us to use the async/await syntax
 connection.query = util.promisify(connection.query);
 
-module.exports = connection;
+service mysql stopmodule.exports = connection;
