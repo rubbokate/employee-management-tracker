@@ -19,3 +19,7 @@
   ## Usage
 
   Just run the following command at the root of the cloned file and begin building your team's information.
+
+  ## Demo
+
+  ![Terminal Recording](./images/demo.gif)
