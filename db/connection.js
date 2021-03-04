@@ -16,4 +16,8 @@ connection.connect();
 // This allows us to use the async/await syntax
 connection.query = util.promisify(connection.query);
 
+<<<<<<< HEAD
 service mysql stopmodule.exports = connection;
+=======
+module.exports = connection;
+>>>>>>> ca517a4315dfa24670c421b01aa6f72088ac3ee2

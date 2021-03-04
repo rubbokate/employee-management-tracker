@@ -12,10 +12,6 @@
   * MySQL
   * Async/Await
 
-  ### Demo
-
-  ![Terminal Recording](/images/demo.gif)
-
   ## Installation
 
   Clone the repo to your local machine using `https://github.com/rubbokate/employee-management-tracker`<br>Then `$ npm install`
